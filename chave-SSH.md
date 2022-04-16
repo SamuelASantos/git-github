@@ -29,3 +29,5 @@ Passo a passo para maior segurança ao github
 - ENTER (INFORMA A CHAVE PRIVADA AO PC)
 - DIGITA A SENHA ANTERIORMENTE ESCOLHIDA
 - FIM (TESTAR O ÊXITO CLONANDO UM REPOSITÓRIO PESSOAL PRIVADO)
+
+[:leftwards_arrow_with_hook: MENU](README.md)

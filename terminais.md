@@ -19,3 +19,5 @@ Alguns comandos básicos
 - ls -a :arrow_right: Lista todos os diretórios incluindo os ocultos
 - ctrl + L :arrow_right: Limpa a tela do terminal
 - mv *nome_do_arquivo.extensão* *./diretorio/* :arrow_right: Move o arquivo para um outro local
+
+[:leftwards_arrow_with_hook: MENU](README.md)

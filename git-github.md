@@ -19,3 +19,5 @@ Comandos git/github
 - - **master** :arrow_right: Branch em que está sendo enviado os commits
 - git pull *origin* *master* :arrow_right: Puxa os commits do GITHUB para a máquina local
 - git clone *URL* :arrow_right: Clona para máquina projetos que estão no GITHUB
+
+[:leftwards_arrow_with_hook: MENU](README.md)
